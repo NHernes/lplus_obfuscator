@@ -20,7 +20,7 @@ response_anonym = {'userLicences': [{'licenceId': 995, 'locationId': 23}], 'exam
 ```
 Personenbezogene Daten wie Username oder Geschlecht wurden durch einen gehashten Wert ersetzt, welcher nicht mehr zurückführbar ist. Die weitere Verarbeitung der Daten erfolgt dann mit anonymisierten Nutzer:innen-Daten.
 
-Das Modul kann entweder aus dem Repo geklont oder per pip installiert werden (https://pypi.org/project/lplus-obfuscator/#description): 
+Das Modul kann entweder aus dem Repo geklont oder per pip installiert werden (https://pypi.org/project/lplus-obfuscator/): 
 ```
 pip install lplus-obfuscator
 ```
